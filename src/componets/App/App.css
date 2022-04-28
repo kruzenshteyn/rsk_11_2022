@@ -5,6 +5,11 @@
   margin: 0 auto;
 }
 
+.app__main{
+  width: 93.75%;
+  margin: 0 auto;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

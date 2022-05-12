@@ -18,8 +18,8 @@ function App() {
       <main className='app__main'>
         <Hero userName='Dasha' />
         <AboutLearning />
-        <Techs />
-        <AboutStudent />
+        <Techs />        
+        <AboutStudent />        
       </main>
       <Footer />
     </div>

@@ -1,5 +1,6 @@
 
 import './Hero.css';
+import {  Link } from 'react-scroll';
 
 function Hero(props) {
 
@@ -7,13 +8,15 @@ function Hero(props) {
     alert(`Button ${e.target.name} was clicked`)
   }
   
+//Link указывает на класс
+
   return (
     <div className="hero">
-      <h1 className='hero__title'>Учебный проект студента факультета Веб-разработки.</h1>      
+      <h1 className='hero__title'>Учебный проект студента радиотехнического факультета</h1>      
       <nav className='hero__nav'>
-        <button className='hero__button' name='aboutProject' onClick={handleClick} >О проекте</button>
-        <button className='hero__button'>Технологии</button>
-        <button className='hero__button'>Студент</button>
+        <Link className='hero__button' to='aboutLearning'>Об обучении</Link>
+        <Link className='hero__button' to='techs'>Технологии</Link>
+        <Link className='hero__button' to='aboutStudent'>Студент</Link>
       </nav>
     </div>
   );

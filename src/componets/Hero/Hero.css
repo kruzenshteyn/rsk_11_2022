@@ -20,7 +20,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 50px;
-  line-height: 58px;
+  line-height: 1.16;
   /* or 116% */
   text-align: center;
   letter-spacing: -0.04em;
@@ -65,4 +65,11 @@
 
 .hero__button:hover{
   opacity: 0.7;
+}
+
+@media (max-width: 800px) {
+  
+  .hero__title{
+    font-size: calc(25px + 0.05 * (100vw - 320px));
+  }
 }

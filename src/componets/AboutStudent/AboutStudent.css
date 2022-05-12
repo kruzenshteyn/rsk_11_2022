@@ -1,0 +1,29 @@
+.aboutStudent{
+
+}
+
+.aboutStudent__title{
+  
+}
+
+.aboutStudent__info{
+  
+}
+
+.aboutStudent__foto{
+  width: 100%;
+}
+
+.aboutStudent__container{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 0 2%;
+}
+
+.aboutStudent__name{
+
+}
+
+.aboutStudent__decscription{
+  text-align: justify;
+}

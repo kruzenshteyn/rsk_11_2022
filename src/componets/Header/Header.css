@@ -3,7 +3,7 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  
+
   width: 93.75%;
   margin: 0 auto;
 }
@@ -14,15 +14,17 @@
 }
 
 .header__title{
-
+  font-size: 36px;
+  font-style: italic;
 }
 
 .header__social{
-  width: 50px;
-  height: 50px;
+  
 }
 
 .header__tlgrm{
   width: 50px;
   height: 50px;
+  opacity: 0.5;
 }
+

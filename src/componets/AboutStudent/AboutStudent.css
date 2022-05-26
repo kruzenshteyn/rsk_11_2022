@@ -27,3 +27,10 @@
 .aboutStudent__decscription{
   text-align: justify;
 }
+
+@media (max-width: 600px){
+  .aboutStudent__container{
+    grid-template-columns: 1fr;
+    gap: 2% 0;
+  }
+}

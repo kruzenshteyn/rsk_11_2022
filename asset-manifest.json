@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rsk_11_2022/static/css/main.be1eea32.css",
+    "main.js": "/rsk_11_2022/static/js/main.839a219d.js",
+    "static/js/787.6e0dafdb.chunk.js": "/rsk_11_2022/static/js/787.6e0dafdb.chunk.js",
+    "static/media/3.jpg": "/rsk_11_2022/static/media/3.a3f74e5c78a07e1154b2.jpg",
+    "static/media/logo.svg": "/rsk_11_2022/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/icons8-telegram-app-96.svg": "/rsk_11_2022/static/media/icons8-telegram-app-96.0d009c1e7da4cfe9466ce01c1ec24a65.svg",
+    "index.html": "/rsk_11_2022/index.html",
+    "main.be1eea32.css.map": "/rsk_11_2022/static/css/main.be1eea32.css.map",
+    "main.839a219d.js.map": "/rsk_11_2022/static/js/main.839a219d.js.map",
+    "787.6e0dafdb.chunk.js.map": "/rsk_11_2022/static/js/787.6e0dafdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be1eea32.css",
+    "static/js/main.839a219d.js"
+  ]
+}
